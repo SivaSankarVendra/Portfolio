@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74cf01df.css",
+    "main.js": "/static/js/main.36fe0c54.js",
+    "static/media/gofood.png": "/static/media/gofood.9d720643b318c0b7a4fe.png",
+    "static/media/calculator.png": "/static/media/calculator.f38256627d3f4f183948.png",
+    "static/media/tailwind.png": "/static/media/tailwind.3549d9e451d7abb96934.png",
+    "static/media/HeroImg.png": "/static/media/HeroImg.0185cc19162b40f4e6c2.png",
+    "static/media/mongodb.png": "/static/media/mongodb.2f81ed7ec1fd818da1b5.png",
+    "static/media/titanic.png": "/static/media/titanic.d930c257a05fad734a5f.png",
+    "static/media/inotebook.png": "/static/media/inotebook.cf94fea709cae4cb6a6b.png",
+    "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/javascript.png": "/static/media/javascript.52c0168c2935f9e4aea1.png",
+    "static/media/python.png": "/static/media/python.f1a07429fcf04073a41e.png",
+    "static/media/github.png": "/static/media/github.987334e9f782cc505f25.png",
+    "static/media/css.png": "/static/media/css.ca4d7b3ef9f597761106.png",
+    "index.html": "/index.html",
+    "main.74cf01df.css.map": "/static/css/main.74cf01df.css.map",
+    "main.36fe0c54.js.map": "/static/js/main.36fe0c54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74cf01df.css",
+    "static/js/main.36fe0c54.js"
+  ]
+}

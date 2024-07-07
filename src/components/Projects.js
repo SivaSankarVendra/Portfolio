@@ -27,6 +27,12 @@ const Projects = () => {
       demoLink: 'https://calculatorproject26.netlify.app/',
       gitLink: 'https://github.com/SivaSankarVendra/Calculator'
     },
+    {
+      id: 4,
+      src: Titanic Survival Prediction,
+      demoLink: 'https://github.com/SivaSankarVendra/TitanicMLModel/tree/main',
+      gitLink: 'https://github.com/SivaSankarVendra/TitanicMLModel/tree/main'
+    },
   ];
 
   return (

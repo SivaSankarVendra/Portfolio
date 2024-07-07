@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const Contact = () => {
   const [mess, setMess] = useState({ userName: "", email: "", message: "" });
-  const host = `http://localhost:5000`;
+  const host = `https://portfolio-2den.onrender.com`;
   const addMessage = async (userName, email, message) => {
     const response = await fetch(`${host}/submit`, {
       method: "POST",
